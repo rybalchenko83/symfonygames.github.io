@@ -1,5 +1,5 @@
 ---
-title: Term Of Use
+title: App-Ads.txt
 date: 2023-10-06 15:00:00 +0300
 categories: [Term_Of_Use]
 tags: [app,ads]     # TAG names should always be lowercase
@@ -35,4 +35,4 @@ In conclusion, app-ads.txt is a vital tool for maintaining transparency and comb
 
 App-Ads.txt [app-ads.txt][1]
 
-[1]:{{ https://symfonygames.github.io/ }}/ads-app.txt
+[1]:{{ https://symfonygames.github.io }}/ads-app.txt
