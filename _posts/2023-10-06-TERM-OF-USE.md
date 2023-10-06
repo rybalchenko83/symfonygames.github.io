@@ -1,7 +1,7 @@
 ---
 title: Term Of Use
 date: 2023-10-06 15:00:00 +0300
-categories: [Term_Of_Use, Privacy_Policy]
+categories: [Term_Of_Use]
 tags: [term,use,privacy,policy]     # TAG names should always be lowercase
 ---
 
