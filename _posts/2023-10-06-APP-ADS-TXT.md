@@ -33,6 +33,6 @@ Advertisers and ad networks should regularly check an app's app-ads.txt file to 
 
 In conclusion, app-ads.txt is a vital tool for maintaining transparency and combating ad fraud in the mobile advertising industry. By publicly listing authorized sellers, it empowers app developers, publishers, advertisers, and ad networks to work together in a more trustworthy and secure environment. As mobile advertising continues to evolve, app-ads.txt remains a cornerstone of responsible and effective ad monetization.
 
-App-Ads.txt [app-ads.txt][1]
+[App-Ads.txt](https://symfonygames.github.io/app-ads.txt)
 
-[1]:{{ https://symfonygames.github.io }}/ads-app.txt
+
