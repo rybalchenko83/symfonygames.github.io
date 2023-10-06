@@ -2,7 +2,7 @@
 title: Privacy Policy
 date: 2023-10-06 15:00:00 +0300
 categories: [Privicy_Policy]
-tags: [term,use,privacy,policy]     # TAG names should always be lowercase
+tags: [privacy,policy]     # TAG names should always be lowercase
 ---
 
 # Privacy Policy
