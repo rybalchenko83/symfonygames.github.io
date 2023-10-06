@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    "\\assets\\img"
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\favicons"
   ],
   "PreviewInSolutionExplorer": false
 }
